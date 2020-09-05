@@ -1,27 +1,6 @@
 {
   "streams": [
     {
-      "title": "My stream",
-      "description": "This is a great stream",
-      "id": 1
-    },
-    {
-      "title": "another stream",
-      "description": "This is another great stream",
-      "id": 2
-    },
-    {
-      "title": "a stream without userId",
-      "description": "hello! I am so nice of a stream...",
-      "userId": null,
-      "id": 3
-    },
-    {
-      "title": "a stream with userId",
-      "description": "this was made by me!",
-      "id": 4
-    },
-    {
       "title": "unexpected behavior",
       "description": "did not expect that!",
       "id": 5
@@ -30,12 +9,6 @@
       "title": "a new stream sdf",
       "description": "using the newly refactored component sdf",
       "id": 6
-    },
-    {
-      "title": "xenia",
-      "description": "onatopp",
-      "userId": "111806606201026905023",
-      "id": 7
     }
   ]
 }
